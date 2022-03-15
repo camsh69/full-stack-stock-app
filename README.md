@@ -4,7 +4,9 @@
 - JavaScript, Node, React, Express, MongoDB
 
 ## Important
-For app to work create a key.js file under client/src.  Obtain a key from https://www.alphavantage.co/support/#api-key and include it in the code below within the key.js file:
+For app to work create a key.js file under client/src (this has been excluded in the .gitignore file to protect private keys).  
+
+Obtain a key from https://www.alphavantage.co/support/#api-key and include it in the code below within the key.js file:
 
 `import React from 'react';`
 
